@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @sportiellomike
-- 👀 I’m interested in transcriptional and metabolic control of T cell memory
-- 🌱 I’m learning how to write programs that will actually be able to be used once they're published by ensuring they have an accessible interface
+- 👋 Hi, I’m @sportiellomike.
+- 👀 I’m interested in transcriptional and metabolic control of T cell memory.
 - 📫 How to reach me: Michael_Sportiello@URMC.Rochester.edu
 
 <!---
