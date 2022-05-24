@@ -1,4 +1,4 @@
-![Mike's GitHub stats](https://github-readme-stats.vercel.app/api?username=sportiellomike&count_private=true&show_icons=true&theme=radical)
+![Mike's GitHub stats](https://github-readme-stats.vercel.app/api?username=sportiellomike&count_private=true&show_icons=true&theme=nightowl)
 
 - 👋 Hi, I’m @sportiellomike.
 - 👀 I’m interested in transcriptional and metabolic control of T cell memory.
