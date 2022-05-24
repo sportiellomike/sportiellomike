@@ -1,4 +1,4 @@
-<center>![Mike's GitHub stats](https://github-readme-stats.vercel.app/api?username=sportiellomike&count_private=true&show_icons=true&theme=nightowl)</center>
+![Mike's GitHub stats](https://github-readme-stats.vercel.app/api?username=sportiellomike&count_private=true&show_icons=true&theme=nightowl)
 
 
 - 👋 Hi, I’m @sportiellomike.
