@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sportiellomike.
 - 👀 I’m interested in transcriptional control of T cell memory differentiation.
-- 🌎 I am also interested in how social factors interact with infectious diseases spread and may be eradicated.
+- 🌎 I am also interested in how social factors interact with how infectious diseases spread and may be eradicated.
 - 📫 How to reach me: sportiellomike@gmail.com
 
 <!---
