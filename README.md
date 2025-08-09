@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sportiellomike.
-- 👀 I’m interested in transcriptional control of T cell memory differentiation.
+- 👀 I’m interested in transcriptional control of memory T cell differentiation.
 - 🌎 I am also interested in how social factors interact with how infectious diseases spread and may be eradicated.
 - 📫 How to reach me: sportiellomike@gmail.com
 
